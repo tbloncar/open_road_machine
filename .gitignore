@@ -1,0 +1,6 @@
+.DS_Store
+.env
+screenshots/
+animations/
+data.pstore
+bot.rb
